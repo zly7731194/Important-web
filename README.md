@@ -9,6 +9,7 @@ istudy   http://211.81.170.249/
 FlowChart.fun  https://flowchart.fun/
 c语言指针的问题  https://www.youtube.com/watch?v=KXaoMKbRLKc
 南大实验训练  https://nju-projectn.github.io/ics-pa-gitbook/ics2021/index.html
+计算机组件的课程   https://missing-semester-cn.github.io/about/
 
 # study for graduate
 bilibili
